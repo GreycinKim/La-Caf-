@@ -6,10 +6,10 @@ The Cafes name is LA Cafe, which stands for Los Angeles, California Faith.
 ## 🌟 Project Overview
 This project showcases the friendly atmosphere of our church cafe, featuring:
 
-Menu: Explore our delicious selection of coffee, tea, and snacks.
-Events: Check out upcoming events hosted at the cafe.
+1. Menu: Explore our delicious selection of coffee, tea, and snacks.
+2. Events: Check out upcoming events hosted at the cafe.
 
 ## 🛠️ Built With
-HTML: For building the structure and content of our website.
-CSS: To style the pages, creating a warm and welcoming design.
-JavaScript: Adding interactive features, like the event swiper and google translate for multiple languages.
+1. HTML: For building the structure and content of our website.
+2. CSS: To style the pages, creating a warm and welcoming design.
+3. JavaScript: Adding interactive features, like the event swiper and google translate for multiple languages.
